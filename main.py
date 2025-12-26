@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-V = r"C:\Users\admin\Downloads\awd.mp4" # your video file (.mp4)
+V = r"" # your video file (.mp4)
 S = 720
 F = 60  # ปรับตามขนาด resolution ที่ต้องการจาก file เด้อ เเบบ 64 - 256 ก้ 300 ได้ไรงี้
 C = 100
